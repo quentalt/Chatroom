@@ -5,7 +5,7 @@
     // ----------------------------------------------------
     // Configure Pusher instance
     // ----------------------------------------------------
-    var pusher = new Pusher('5b8e12f5ab64caf7dac4', {
+    var pusher = new Pusher('', {
         authEndpoint: '/pusher/auth',
         cluster: 'eu',
         encrypted: true
