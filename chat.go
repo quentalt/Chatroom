@@ -11,9 +11,9 @@ import (
 )
 
 var client = pusher.Client{
-	AppID:   "1334984",
-	Key:     "5b8e12f5ab64caf7dac4",
-	Secret:  "ca6ca6f91ddcf5371b57",
+	AppID:   "",
+	Key:     "",
+	Secret:  "",
 	Cluster: "eu",
 	Secure:  true,
 }
